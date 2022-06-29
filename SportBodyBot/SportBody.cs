@@ -19,7 +19,7 @@ namespace SportBodyBot
     public class SportBody
     {
         Dictionary<long, Client> allusers = new Dictionary<long, Client>();
-        TelegramBotClient botClient = new TelegramBotClient("5595718086:AAGDfPJ_-MQNIuRwVXTH6gJA7yq-C_5vl4U");
+        TelegramBotClient botClient = new TelegramBotClient("5450747507:AAGEfTxsszGegLjuidJhcaJouhpyVgKq7mg");
         CancellationToken cancellationToken = new CancellationToken();
         ReceiverOptions receiverOptions = new ReceiverOptions { AllowedUpdates = { } };
         public async Task Start()
