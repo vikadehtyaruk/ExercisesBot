@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUFlfjxDk7XpbgzN0qoDU9kbDuVof3bJB1IVV3Nqgm9HuP7ThXC9j8fe2NUV0eqVxFEKVONi4ifnv3Ur5NPANA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikad\\source\\repos\\SportBodyBot\\SportBodyBot\\SportBodyBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vikad\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\vikad\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\vikad\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
